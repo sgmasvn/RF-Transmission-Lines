@@ -17,7 +17,7 @@
 * delta(Z) much more smaller than wavelength
 * Using Maxwell Laws - the delta(Z) segment can be transformed into a lumped-element model (as shown below)
 
-* ![Transmission Line](https://github.com/sgmasvn/RF-Transmission-Lines/blob/main/Transmission.png)
+![Transmission Line](https://github.com/sgmasvn/RF-Transmission-Lines/blob/main/Transmission.png)
 * R  is measured in ohm/m
 * L  in H/m
 * C  in F/m
