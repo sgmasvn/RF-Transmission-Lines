@@ -17,11 +17,12 @@
 * delta(Z) much more smaller than wavelength
 * Using Maxwell Laws - the delta(Z) segment can be transformed into a lumped-element model (as shown below)
 
+R --> 0, and G --> infinity
 ![Transmission Line](https://github.com/sgmasvn/RF-Transmission-Lines/blob/main/Transmission.png)
 * R  is measured in ohm/m
 * L  in H/m
 * C  in F/m
 * G is the conductivity - which arises due to the dielectric
 
-
+R --> 0, and G --> infinity
 ![LossLess](https://github.com/sgmasvn/RF-Transmission-Lines/blob/main/Lossless.png)
