@@ -16,4 +16,4 @@
 * Transmission line segment - is broken down into smaller segments - delta(Z).
 * delta(Z) much more smaller than wavelength
 * Using Maxwell Laws - the delta(Z) segment can be transformed into a lumped-element model
-![Transmission Line](
+* ![Transmission Line](https://github.com/sgmasvn/RF-Transmission-Lines/blob/main/Transmission.png)
