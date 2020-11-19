@@ -23,5 +23,5 @@
 * C  in F/m
 * G is the conductivity - which arises due to the dielectric
 
-R --> 0, and G --> infinity
+
 ![LossLess](https://github.com/sgmasvn/RF-Transmission-Lines/blob/main/Lossless.png)
