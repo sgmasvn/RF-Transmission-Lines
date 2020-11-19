@@ -24,5 +24,5 @@
 * C  in F/m
 * G is the conductivity - which arises due to the dielectric
 
-* Lossless Model
+* Lossless Model     
 ![LossLess](https://github.com/sgmasvn/RF-Transmission-Lines/blob/main/Lossless.png)
