@@ -24,4 +24,4 @@
 * G is the conductivity - which arises due to the dielectric
 
 R --> 0, and G --> infinity
-![LossLess](
+![LossLess](https://github.com/sgmasvn/RF-Transmission-Lines/blob/main/Lossless.png)
